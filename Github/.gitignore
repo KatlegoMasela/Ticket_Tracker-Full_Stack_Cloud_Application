@@ -1,0 +1,11 @@
+# Ignore Docker Desktop installer
+Docker Desktop Installer.exe
+
+# Ignore only terraform.tfvars file
+Terraform Config files/terraform.tfvars
+
+# Ignore Azure CLI installer
+azure-cli-2.77.0-x64.msi
+
+# Ignore .NET SDK installer
+dotnet-sdk-8.0.414-win-x64 (1).exe
