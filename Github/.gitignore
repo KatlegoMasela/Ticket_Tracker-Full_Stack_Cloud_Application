@@ -2,7 +2,7 @@
 Docker Desktop Installer.exe
 
 # Ignore only terraform.tfvars file
-Terraform Config files/terraform.tfvars
+terraform.tfvars
 
 # Ignore Azure CLI installer
 azure-cli-2.77.0-x64.msi
